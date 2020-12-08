@@ -48,4 +48,4 @@ The project is a menu driven program as when we run the main class we get seven 
 
 # Problem Statement
 
-Based on the observation, there isn’t a proper library management system for the students of NMIMS. So, students need to go to the library to check whether a certain book is available or not. They can register themselves to the library from this only they need not go to library for this sole purpose.
+Based on the observation, there isn’t a proper library management system for the students. So, students need to go to the library to check whether a certain book is available or not. They can register themselves to the library from this only they need not go to library for this sole purpose.
