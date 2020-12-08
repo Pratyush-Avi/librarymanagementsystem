@@ -24,17 +24,17 @@ The project is a menu driven program as when we run the main class we get seven 
 
 * When we select the 1st option i.e. Add new book we can add a new book in the record of library with details such as book name, author name, SNo and Quantity.
 
-When we select 2nd option i.e. Increase quantity of books we can increase the quantity of any book which is present in the record.
+* When we select 2nd option i.e. Increase quantity of books we can increase the quantity of any book which is present in the record.
 
-+ When we select 3rd option i.e. Show all books we will see all the books present in the library with all their details.
+* When we select 3rd option i.e. Show all books we will see all the books present in the library with all their details.
 
-- When we select 4th option i.e. Register Student we can register a student in the record by entering the details of students such as First Name, Last Name, Sap ID, Course, Batch etc.
+* When we select 4th option i.e. Register Student we can register a student in the record by entering the details of students such as First Name, Last Name, Sap ID, Course, Batch etc.
 
-/ When we select 5th option i.e. Show all registered students we will see all the students registered in the record with their details.
+* When we select 5th option i.e. Show all registered students we will see all the students registered in the record with their details.
 
-\ When we select 6th option i.e. Issue Book only the registered student can issue a book from the library and if the student is not registered then he’ll have to first register himself then only he’ll be able to register book.
+* When we select 6th option i.e. Issue Book only the registered student can issue a book from the library and if the student is not registered then he’ll have to first register himself then only he’ll be able to register book.
 
-< When we select 7th option i.e. Exit we will be exited out of the program.  
+* When we select 7th option i.e. Exit we will be exited out of the program.  
 
 
 # Objective
